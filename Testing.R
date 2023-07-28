@@ -1,3 +1,3 @@
-print("This file was created within RStudio") and then on a new line paste
+print("This file was created within RStudio")
 
 print("And now it lives on GitHub")
